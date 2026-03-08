@@ -10,4 +10,4 @@ function nameToHex(name) {
 // Examples
 console.log(nameToHex("John Smith"));
 console.log(nameToHex("Jane Doe"));
-console.log(nameToHex("Syed Adam Abbas Zaidi"));
+console.log(nameToHex("any length of a random string is supported"));
