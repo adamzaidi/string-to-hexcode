@@ -1,1 +1,1 @@
-https://adamzaidi.github.io/hex-code-username/
+https://adamzaidi.github.io/string-to-hexcode/
